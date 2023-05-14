@@ -1,5 +1,5 @@
 import * as core from "@actions/core";
-import * as toml from "@iarna/toml";
+import * as toml from "@deep-soft/toml";
 import * as fs from "fs";
 import * as path from "path";
 
